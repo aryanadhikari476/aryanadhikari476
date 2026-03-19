@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm **Aryan Adhikari**, a passionate Computer Science student and aspiring software developer.
-
----
+I'm **Aryan Adhikari**, a passionate Computer Science student and aspiring software developer
 
 ### 🚀 About Me
 
@@ -15,7 +13,6 @@ I'm **Aryan Adhikari**, a passionate Computer Science student and aspiring softw
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I enjoy solving challenging problems and improving daily 🚀**
 
----
 
 ### 🛠️ Tech Stack
 
@@ -23,7 +20,6 @@ I'm **Aryan Adhikari**, a passionate Computer Science student and aspiring softw
 * 📚 Core Subjects: **Data Structures, Algorithms, DBMS, OS**
 * 🧰 Tools: **Git, GitHub, VS Code**
 
----
 
 ### 📈 Current Focus
 
@@ -31,7 +27,6 @@ I'm **Aryan Adhikari**, a passionate Computer Science student and aspiring softw
 * Improving problem-solving speed ⏱️
 * Preparing for coding interviews 💼
 
----
 
 ### 🔥 Goals
 
@@ -39,6 +34,5 @@ I'm **Aryan Adhikari**, a passionate Computer Science student and aspiring softw
 * Contribute to open-source projects
 * Become a strong problem solver
 
----
 
 ⭐ *“Consistency is the key to mastering DSA.”*
